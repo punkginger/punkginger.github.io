@@ -21,13 +21,20 @@
 <li><a href="#%E7%BB%83%E4%B9%A0">练习</a></li>
 </ul>
 </li>
+<li><a href="#%E6%94%B9%E8%BF%9B%E6%9F%B1%E5%BC%8F%E5%92%8C%E5%BC%A6">改进柱式和弦</a><ul>
+<li><a href="#%E6%B5%81%E8%A1%8C%E6%8C%87%E6%B3%95">流行指法</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#%E4%B9%90%E7%90%86%E7%9F%A5%E8%AF%86">乐理知识</a><ul>
+<li><a href="#%E9%9F%B3%E7%A8%8B">音程</a></li>
 </ul>
 </li>
 </ul>
 <!-- tocstop -->
 
-<h1><span id="即兴伴奏">即兴伴奏</span></h1><h1><span id="实战技巧">实战技巧</span></h1><h2><span id="和弦情感">和弦情感</span></h2><p>对于自然大调的三和弦，其<strong>1 4 5</strong>级和弦为大三和弦，总体上情感<strong>明亮欢快</strong></p>
-<p><strong>2 3 6</strong>级和弦为小三和弦，情感<strong>暗淡忧伤</strong></p>
+<h1><span id="即兴伴奏">即兴伴奏</span></h1><h1><span id="实战技巧">实战技巧</span></h1><h2><span id="和弦情感">和弦情感</span></h2><p>对于自然大调的三和弦，其<strong>1 4 5</strong>级和弦为大三和弦，总体上情感<strong>明亮欢快</strong>， <strong>2 3 6</strong>级和弦为小三和弦，情感<strong>暗淡忧伤</strong>。</p>
 <h3><span id="大和弦">大和弦</span></h3><p><strong>1级</strong>：最稳定，最适合用于开始和完整的结束</p>
 <p><strong>4级</strong>：有力量感，很壮观，尤其适合连接在小和弦后带来豁然开朗的感觉</p>
 <p><strong>5级</strong>：过渡感，常导向1级</p>
@@ -37,24 +44,37 @@
 <h2><span id="丰富和弦法一大和弦add2-小和弦加七度">丰富和弦法一：大和弦add2 小和弦加七度</span></h2><p>对于<strong>1级 4级</strong>这样的大和弦，其add2（或者理解成add9）功能不会发生改变，但是听感上要丰富许多，因此可以这样加花</p>
 <p>对于<strong>2级 3级 6级</strong> 这样的小和弦，弹奏其对应的小七和弦有同样的效果</p>
 <p><strong>5级</strong>属和弦功能特殊另外讨论</p>
-<p>这样加花非常简单，且流行乐味道浓厚，不过当遇到需要简单的听感和情感时，普通的三和弦也没有问题</p>
+<p>这样加花非常简单，且流行乐味道浓厚，不过当遇到需要简单的听感和情感时，普通的三和弦也没有问题。</p>
 <h2><span id="丰富和弦法二sus4与属和弦">丰富和弦法二：sus4与属和弦</span></h2><p>sus4的4度有强烈的指向原本普通的3度的倾向，因此在一些转折，尤其是重复但后半部分进入转折的段落可以使用sus4—原和弦的进行</p>
-<p>尤其是<strong>5级的</strong>属和弦，很适合这种方法，特别是在港台流行和一些R&amp;B老歌中喜欢使用<strong>G9sus4 （也可理解为F&#x2F;G）<strong>连接</strong>G或者G7</strong>一齐实现一个完整的属和弦功能</p>
+<p>尤其是<strong>5级的</strong>属和弦，很适合这种方法，特别是在港台流行和一些R&amp;B老歌中喜欢使用<strong>G9sus4 （也可理解为F&#x2F;G）<strong>连接</strong>G或者G7</strong>一齐实现一个完整的属和弦功能。</p>
 <h2><span id="丰富和弦法三转位与改变低音">丰富和弦法三：转位与改变低音</span></h2><p>改变低音很常见的一个例子是<strong>G&#x2F;F</strong> 因为将其解决到<strong>Em（流行乐的做法）<strong>或者</strong>C&#x2F;E（古典乐的做法）<strong>都很好听地构成了一个低音半音下行，上面提到的</strong>F&#x2F;G</strong>也是个改变低音的好例子，比如其可以构成这样一个<strong>F&#x2F;G-G&#x2F;F-Em7</strong>高音上行但低音下行的奇妙例子：</p>
 <p><img src="https://cdn.jsdelivr.net/gh/punkginger/cdn@master/images/2025_4/accompaniment/FonG-GonF-Em7.jpg" alt="FonG-GonF-Em7.jpg (472×564)"></p>
-<p>转位最常见的需求是为了给别的声音腾出声部，或者单纯是为了方便弹，不过有时候通过转位也能构成独特的下行或者上行，比如经典的卡农进行</p>
+<p>转位最常见的需求是为了给别的声音腾出声部，或者单纯是为了方便弹，不过有时候通过转位也能构成独特的下行或者上行，比如经典的卡农进行：</p>
 <p><img src="https://cdn.jsdelivr.net/gh/punkginger/cdn@master/images/2025_4/accompaniment/canon1.jpg" alt="canon1.jpg (1143×171)"></p>
-<p>如果将其按照图中转位，就会得到美妙的低音下行</p>
+<p>如果将其按照图中转位，就会得到美妙的低音下行：</p>
 <p><img src="https://cdn.jsdelivr.net/gh/punkginger/cdn@master/images/2025_4/accompaniment/canon2.jpg" alt="canon2.jpg"></p>
-<p>事实上，通过转位或者改变低音来凑成低音的上下行是特别常见且有用的方法</p>
+<p>事实上，通过转位或者改变低音来凑成低音的上下行是特别常见且有用的方法。</p>
 <h2><span id="综合练习">综合练习</span></h2><h3><span id="强弱与踏板">强弱与踏板</span></h3><p>对于柱式和弦，一种比较通用的好听的踏板方式是这样的：</p>
 <p><img src="https://cdn.jsdelivr.net/gh/punkginger/cdn@master/images/2025_4/accompaniment/holdpedal.jpg" alt="holdpedal.jpg (609×703)"></p>
 <p>即在砸上一个和弦的时候踩下，保持到砸下一个和弦前，这样每时每刻都有乐声</p>
-<p>而强弱则是最好符合一个特定的模式，比如“强-弱”，“强-弱-强-弱”等等，这里就是情感演绎的自由发挥之处了</p>
-<h3><span id="练习">练习</span></h3><p>上面的卡农进行和经典的4536251进行都是常见且值得一练的好听的进行，不过下面我们可以以一首具体的歌来串联起之前的内容进行练习，让我们以《后来》这首流行歌为例</p>
+<p>而强弱则是最好符合一个特定的模式，比如“强-弱”，“强-弱-强-弱”等等，这里就是情感演绎的自由发挥之处了。</p>
+<h3><span id="练习">练习</span></h3><p>上面的卡农进行和经典的4536251进行都是常见且值得一练的好听的进行，不过下面我们可以以一首具体的歌来串联起之前的内容进行练习，让我们以《后来》这首流行歌为例：</p>
 <p>第一段：</p>
 <p><img src="https://cdn.jsdelivr.net/gh/punkginger/cdn@master/images/2025_4/accompaniment/houlai1.jpg" alt="houlai1.jpg (1035×475)"></p>
-]]></content>
+<p>一种可选的进行是这样的，将前两个<strong>Em</strong>转位构成一个<strong>C B A G</strong>的根音下行：</p>
+<p><img src="https://cdn.jsdelivr.net/gh/punkginger/cdn@master/images/2025_4/accompaniment/houlai1progression.jpg" alt="houlai1"></p>
+<p>还有很多别的voicing方法可以尝试，之后是接下来的段落：</p>
+<p><img src="https://cdn.jsdelivr.net/gh/punkginger/cdn@master/images/2025_4/accompaniment/houlai2.jpg" alt="houlai2"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/punkginger/cdn@master/images/2025_4/accompaniment/houlai3.jpg" alt="houlai3"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/punkginger/cdn@master/images/2025_4/accompaniment/houlai4.jpg"></p>
+<h2><span id="改进柱式和弦">改进柱式和弦</span></h2><h3><span id="流行指法">流行指法</span></h3><p>首先可以从voicing上改进，用更符合流行指法的方式弹奏和弦，概括地说，就是<strong>左手小指负责根音，拇指负责高八度的根音或者附近的音，食指负责五度或者附近的音</strong>，比如对于没有转位的6个常用和弦，可以这样弹奏：</p>
+<p><img src="https://cdn.jsdelivr.net/gh/punkginger/cdn@master/images/2025_4/accompaniment/lefthand.jpg" alt="lefthand"></p>
+<p>而这个加入的五音可以作为<strong>半分解和弦</strong>的启动音，比如把最后一拍谈成四个16分音符上行再下行的话，可以从这个五音出发，演奏上面的和弦，回到这个五音，最后回到根音。相对的，最基本的半分解和弦弹法就是在最后一排的后半拍八分演奏一个最低的根音。</p>
+<p>而真正的分解和弦，则需要对各个和弦的琶音非常熟悉，之后就可以自由组合琶音的上下行，这对于往往只在一个简单的调上仅仅做调性的文章的流行音乐来说已经足够了。比如，一个不错的琶音方式如下：</p>
+<p><img src="https://cdn.jsdelivr.net/gh/punkginger/cdn@master/images/2025_4/accompaniment/arp.jpg" alt="arp"></p>
+<p>再之后的改进，可以是在琶音的过程中加入和弦，或者使用不同的节奏，以及强弱和别的情感上的表达了。不管如何，这都是相当困难的一部分，需要大量的练习才能做到，不过一旦能流利地这样演奏了，就已经基本上能从流行乐的键盘即兴里毕业了。</p>
+<hr>
+<h1><span id="乐理知识">乐理知识</span></h1><h2><span id="音程">音程</span></h2>]]></content>
       <categories>
         <category>音乐</category>
       </categories>
