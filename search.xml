@@ -3,7 +3,30 @@
   <entry>
     <title>即兴伴奏笔记</title>
     <url>/2025/accompaniment-course-notes/</url>
-    <content><![CDATA[<h1><span id="即兴伴奏">即兴伴奏</span></h1><h1><span id="实战技巧">实战技巧</span></h1><h2><span id="和弦情感">和弦情感</span></h2><p>对于自然大调的三和弦，其<strong>1 4 5</strong>级和弦为大三和弦，总体上情感<strong>明亮欢快</strong></p>
+    <content><![CDATA[<!-- toc -->
+
+<ul>
+<li><a href="#%E5%8D%B3%E5%85%B4%E4%BC%B4%E5%A5%8F">即兴伴奏</a></li>
+<li><a href="#%E5%AE%9E%E6%88%98%E6%8A%80%E5%B7%A7">实战技巧</a><ul>
+<li><a href="#%E5%92%8C%E5%BC%A6%E6%83%85%E6%84%9F">和弦情感</a><ul>
+<li><a href="#%E5%A4%A7%E5%92%8C%E5%BC%A6">大和弦</a></li>
+<li><a href="#%E5%B0%8F%E5%92%8C%E5%BC%A6">小和弦</a></li>
+</ul>
+</li>
+<li><a href="#%E4%B8%B0%E5%AF%8C%E5%92%8C%E5%BC%A6%E6%B3%95%E4%B8%80%E5%A4%A7%E5%92%8C%E5%BC%A6add2-%E5%B0%8F%E5%92%8C%E5%BC%A6%E5%8A%A0%E4%B8%83%E5%BA%A6">丰富和弦法一：大和弦add2 小和弦加七度</a></li>
+<li><a href="#%E4%B8%B0%E5%AF%8C%E5%92%8C%E5%BC%A6%E6%B3%95%E4%BA%8Csus4%E4%B8%8E%E5%B1%9E%E5%92%8C%E5%BC%A6">丰富和弦法二：sus4与属和弦</a></li>
+<li><a href="#%E4%B8%B0%E5%AF%8C%E5%92%8C%E5%BC%A6%E6%B3%95%E4%B8%89%E8%BD%AC%E4%BD%8D%E4%B8%8E%E6%94%B9%E5%8F%98%E4%BD%8E%E9%9F%B3">丰富和弦法三：转位与改变低音</a></li>
+<li><a href="#%E7%BB%BC%E5%90%88%E7%BB%83%E4%B9%A0">综合练习</a><ul>
+<li><a href="#%E5%BC%BA%E5%BC%B1%E4%B8%8E%E8%B8%8F%E6%9D%BF">强弱与踏板</a></li>
+<li><a href="#%E7%BB%83%E4%B9%A0">练习</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<!-- tocstop -->
+
+<h1><span id="即兴伴奏">即兴伴奏</span></h1><h1><span id="实战技巧">实战技巧</span></h1><h2><span id="和弦情感">和弦情感</span></h2><p>对于自然大调的三和弦，其<strong>1 4 5</strong>级和弦为大三和弦，总体上情感<strong>明亮欢快</strong></p>
 <p><strong>2 3 6</strong>级和弦为小三和弦，情感<strong>暗淡忧伤</strong></p>
 <h3><span id="大和弦">大和弦</span></h3><p><strong>1级</strong>：最稳定，最适合用于开始和完整的结束</p>
 <p><strong>4级</strong>：有力量感，很壮观，尤其适合连接在小和弦后带来豁然开朗的感觉</p>
@@ -32,6 +55,14 @@
 <p>第一段：</p>
 <p><img src="https://cdn.jsdelivr.net/gh/punkginger/cdn@master/images/2025_4/accompaniment/houlai1.jpg" alt="houlai1.jpg (1035×475)"></p>
 ]]></content>
+      <categories>
+        <category>音乐</category>
+      </categories>
+      <tags>
+        <tag>键盘即兴</tag>
+        <tag>乐理</tag>
+        <tag>编曲技巧</tag>
+      </tags>
   </entry>
   <entry>
     <title>Hello World</title>
