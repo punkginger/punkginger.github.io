@@ -1,24 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2025/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2><span id="quick-start">Quick Start</span></h2><h3><span id="create-a-new-post">Create a new post</span></h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3><span id="run-server">Run server</span></h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3><span id="generate-static-files">Generate static files</span></h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3><span id="deploy-to-remote-sites">Deploy to remote sites</span></h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>即兴伴奏笔记</title>
     <url>/2025/accompaniment-course-notes/</url>
     <content><![CDATA[<p>本文是乐感音乐-即兴伴奏课程的笔记，该课程主要以流行乐为主，面向实操，需要大量的练习以流利掌握。本笔记更多地关注课程讲述的一些编曲技巧和乐理知识。</p>
@@ -191,46 +173,6 @@
       </tags>
   </entry>
   <entry>
-    <title>流行音乐与爵士乐和声学笔记</title>
-    <url>/2025/%E6%B5%81%E8%A1%8C%E9%9F%B3%E4%B9%90%E4%B8%8E%E7%88%B5%E5%A3%AB%E4%B9%90%E5%92%8C%E5%A3%B0%E5%AD%A6%E7%AC%94%E8%AE%B0/</url>
-    <content><![CDATA[<p>本文为人民音乐出版社出版的，任达敏老师所著的《流行音乐与爵士乐和声学笔记（第二版）》的读书笔记，该书是我在同类型中文书籍中最喜爱的一本，我觉得本书内容简洁详实，用不多的文字很好地讲清了基础乐理、流行和声和爵士和声中重要的部分，且提供了科学有效的记忆和练习方法。</p>
-<p>本笔记只会关注我认为需要特别留意的一些点。</p>
-<hr>
-<!-- toc -->
-
-<ul>
-<li><a href="#%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA">基础理论</a><ul>
-<li><a href="#%E9%9F%B3%E7%A8%8B">音程</a></li>
-</ul>
-</li>
-<li><a href="#%E6%B5%81%E8%A1%8C%E5%92%8C%E5%A3%B0">流行和声</a></li>
-<li><a href="#%E7%88%B5%E5%A3%AB%E5%92%8C%E5%A3%B0">爵士和声</a></li>
-</ul>
-<!-- tocstop -->
-
-<hr>
-<h1><span id="基础理论">基础理论</span></h1><h2><span id="音程">音程</span></h2><p>我在这部分遇到的第一个难点是在五线谱上识别音程。我认为最快速的方法其实是建立形状与音程的关系，其中的关键是<strong>单数音程同线间，双数音程异线间</strong>，如下图：</p>
-<p><img src="https://cdn.jsdelivr.net/gh/punkginger/cdn@master/images/2025_4/popAndJazzMusicTheory/interval1.jpg" alt="interval1"></p>
-<p>不过在daw里由于半音显示的相当清晰，反倒是在确定度数后使用半音数来推算音程性质比较方便，因此图上各个音程的半音数也值得一记。</p>
-<p>随后是各个音程性质之间的差异，我认为记忆这一块最好用的方法是<strong>观察跨越的半音数</strong>，如下图：</p>
-<p><img src="https://cdn.jsdelivr.net/gh/punkginger/cdn@master/images/2025_4/popAndJazzMusicTheory/identifyThird.jpg" alt="identify"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/punkginger/cdn@master/images/2025_4/popAndJazzMusicTheory/forth.jpg" alt="4th"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/punkginger/cdn@master/images/2025_4/popAndJazzMusicTheory/fifth.jpg" alt="fifth"></p>
-<p>这里值得注意的是，增四度和减五度都是三全音，但是由于其起始结束的音名之间度数不同所以是完全不同的度数，直观的例子就是上图中<strong>F-B的增四度是三个连续的全音，而B-F的减五度则是两个半音和两个全音组成的</strong>。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/punkginger/cdn@master/images/2025_4/popAndJazzMusicTheory/67th.jpg" alt="67th"></p>
-<hr>
-<h1><span id="流行和声">流行和声</span></h1><hr>
-<h1><span id="爵士和声">爵士和声</span></h1>]]></content>
-      <categories>
-        <category>音乐</category>
-      </categories>
-      <tags>
-        <tag>乐理</tag>
-        <tag>流行乐</tag>
-        <tag>爵士</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>现代键盘课程笔记</title>
     <url>/2025/%E7%8E%B0%E4%BB%A3%E9%94%AE%E7%9B%98%E8%AF%BE%E7%A8%8B%E7%AC%94%E8%AE%B0/</url>
     <content><![CDATA[<p>本文为joykeys现代键盘课程的课程笔记，课程比较全面系统地讲解了现代键盘手从零开始要进行的练习。</p>
@@ -271,6 +213,46 @@
         <tag>键盘即兴</tag>
         <tag>乐理</tag>
         <tag>五声音阶</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>流行音乐与爵士乐和声学笔记</title>
+    <url>/2025/%E6%B5%81%E8%A1%8C%E9%9F%B3%E4%B9%90%E4%B8%8E%E7%88%B5%E5%A3%AB%E4%B9%90%E5%92%8C%E5%A3%B0%E5%AD%A6%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<p>本文为人民音乐出版社出版的，任达敏老师所著的《流行音乐与爵士乐和声学笔记（第二版）》的读书笔记，该书是我在同类型中文书籍中最喜爱的一本，我觉得本书内容简洁详实，用不多的文字很好地讲清了基础乐理、流行和声和爵士和声中重要的部分，且提供了科学有效的记忆和练习方法。</p>
+<p>本笔记只会关注我认为需要特别留意的一些点。</p>
+<hr>
+<!-- toc -->
+
+<ul>
+<li><a href="#%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA">基础理论</a><ul>
+<li><a href="#%E9%9F%B3%E7%A8%8B">音程</a></li>
+</ul>
+</li>
+<li><a href="#%E6%B5%81%E8%A1%8C%E5%92%8C%E5%A3%B0">流行和声</a></li>
+<li><a href="#%E7%88%B5%E5%A3%AB%E5%92%8C%E5%A3%B0">爵士和声</a></li>
+</ul>
+<!-- tocstop -->
+
+<hr>
+<h1><span id="基础理论">基础理论</span></h1><h2><span id="音程">音程</span></h2><p>我在这部分遇到的第一个难点是在五线谱上识别音程。我认为最快速的方法其实是建立形状与音程的关系，其中的关键是<strong>单数音程同线间，双数音程异线间</strong>，如下图：</p>
+<p><img src="https://cdn.jsdelivr.net/gh/punkginger/cdn@master/images/2025_4/popAndJazzMusicTheory/interval1.jpg" alt="interval1"></p>
+<p>不过在daw里由于半音显示的相当清晰，反倒是在确定度数后使用半音数来推算音程性质比较方便，因此图上各个音程的半音数也值得一记。</p>
+<p>随后是各个音程性质之间的差异，我认为记忆这一块最好用的方法是<strong>观察跨越的半音数</strong>，如下图：</p>
+<p><img src="https://cdn.jsdelivr.net/gh/punkginger/cdn@master/images/2025_4/popAndJazzMusicTheory/identifyThird.jpg" alt="identify"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/punkginger/cdn@master/images/2025_4/popAndJazzMusicTheory/forth.jpg" alt="4th"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/punkginger/cdn@master/images/2025_4/popAndJazzMusicTheory/fifth.jpg" alt="fifth"></p>
+<p>这里值得注意的是，增四度和减五度都是三全音，但是由于其起始结束的音名之间度数不同所以是完全不同的度数，直观的例子就是上图中<strong>F-B的增四度是三个连续的全音，而B-F的减五度则是两个半音和两个全音组成的</strong>。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/punkginger/cdn@master/images/2025_4/popAndJazzMusicTheory/67th.jpg" alt="67th"></p>
+<hr>
+<h1><span id="流行和声">流行和声</span></h1><hr>
+<h1><span id="爵士和声">爵士和声</span></h1>]]></content>
+      <categories>
+        <category>音乐</category>
+      </categories>
+      <tags>
+        <tag>乐理</tag>
+        <tag>流行乐</tag>
+        <tag>爵士</tag>
       </tags>
   </entry>
 </search>
