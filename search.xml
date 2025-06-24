@@ -230,7 +230,21 @@
 </ul>
 </li>
 <li><a href="#%E6%B5%81%E8%A1%8C%E5%92%8C%E5%A3%B0">流行和声</a><ul>
-<li><a href="#%E5%8A%9F%E8%83%BD%E5%92%8C%E5%A3%B0">功能和声</a></li>
+<li><a href="#%E5%8A%9F%E8%83%BD%E5%92%8C%E5%A3%B0">功能和声</a><ul>
+<li><a href="#tsd%E5%8A%9F%E8%83%BD%E7%BB%84">TSD功能组</a></li>
+<li><a href="#%E5%8A%9F%E8%83%BD%E5%92%8C%E5%A3%B0%E8%BF%9B%E8%A1%8C%E8%A7%84%E5%BE%8B">功能和声进行规律</a></li>
+<li><a href="#%E5%92%8C%E5%BC%A6%E7%9A%84%E4%BA%A4%E6%9B%BF%E5%8A%9F%E8%83%BD">和弦的交替功能</a></li>
+</ul>
+</li>
+<li><a href="#%E5%A4%A7%E8%B0%83%E6%AD%A3%E5%89%AF%E5%92%8C%E5%BC%A6%E7%9A%84%E8%BF%9B%E8%A1%8C%E6%96%B9%E5%90%91">大调正副和弦的进行方向</a><ul>
+<li><a href="#%E6%AD%A3%E5%92%8C%E5%BC%A6">正和弦</a><ul>
+<li><a href="#%E4%B8%80%E7%BA%A7">一级</a></li>
+<li><a href="#%E5%9B%9B%E7%BA%A7">四级</a></li>
+<li><a href="#%E4%BA%94%E7%BA%A7">五级</a></li>
+</ul>
+</li>
+</ul>
+</li>
 </ul>
 </li>
 <li><a href="#%E7%88%B5%E5%A3%AB%E5%92%8C%E5%A3%B0">爵士和声</a></li>
@@ -353,9 +367,9 @@
 <h5><span id="阿尔贝蒂低音">阿尔贝蒂低音</span></h5><p>能带来早期古典主义风味的早期风格，用于4&#x2F;4或者2&#x2F;4拍的密集排列音区。</p>
 <p><img src="https://cdn.jsdelivr.net/gh/punkginger/cdn@master/images/2025_4/popAndJazzMusicTheory/alberti.jpg" alt="alberti"></p>
 <hr>
-<h1><span id="流行和声">流行和声</span></h1><h2><span id="功能和声">功能和声</span></h2><p>功能和声是以大调与和声（旋律）小调为基础的理论，它将大小调中的七个和弦分类为三种功能：<strong>T 主 tonic</strong>、<strong>D 属 dominant</strong>和<strong>S 下属 sub-dominant</strong>，主音（一级）、属音（五级）和下属音（四级）三个音级上的和弦分别是这三种功能的核心和弦，它们也叫正和弦。</p>
+<h1><span id="流行和声">流行和声</span></h1><h2><span id="功能和声">功能和声</span></h2><h3><span id="tsd功能组">TSD功能组</span></h3><p>功能和声是以大调与和声（旋律）小调为基础的理论，它将大小调中的七个和弦分类为三种功能：<strong>T 主 tonic</strong>、<strong>D 属 dominant</strong>和<strong>S 下属 sub-dominant</strong>，主音（一级）、属音（五级）和下属音（四级）三个音级上的和弦分别是这三种功能的核心和弦，它们也叫正和弦。</p>
 <p>可以发现，属和下属分别从上方五度和下方五度支撑着主功能。</p>
-<p>剩余的和弦被分别划入不同的功能组，划分的依据是正和弦上下三度的和弦与其关系最密切，有最多的共同音，因此：</p>
+<p>剩余的和弦，被称为副和弦，被分别划入不同的功能组，划分的依据是正和弦上下三度的和弦与其关系最密切，有最多的共同音，因此：</p>
 <ol>
 <li>S 下属功能组有 二级 四级 六级</li>
 <li>D 属功能组有 三级 五级 七级</li>
@@ -364,6 +378,16 @@
 <p>当一组三和弦进行完整地包含S T D三个功能组时，我们就可以确定调性，这是因为此时一个调式音阶的七个音级已经全部出现了。</p>
 <p>不过，这对我们更有启示性的指导在于，属七和弦+一个主和弦即可确定调性</p>
 <p><img src="https://cdn.jsdelivr.net/gh/punkginger/cdn@master/images/2025_4/popAndJazzMusicTheory/V7toItonality.jpg"></p>
+<h3><span id="功能和声进行规律">功能和声进行规律</span></h3><p><img src="https://cdn.jsdelivr.net/gh/punkginger/cdn@master/images/2025_4/popAndJazzMusicTheory/rulesOfFH.jpg"></p>
+<h3><span id="和弦的交替功能">和弦的交替功能</span></h3><p>主要考虑在关系大小调方面的和弦的交替功能。使用同一调号的大小调叫做关系大小调，最著名的就是C大调与A自然小调，其特征在于两个调的主音构成小三度关系。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/punkginger/cdn@master/images/2025_4/popAndJazzMusicTheory/functionChange.jpg"></p>
+<p>这带来的启示在于，正和弦可以很好地确定调式的特点，而从关系大小调的角度出发，使用副和弦可以很便捷地引入大&#x2F;小调的色彩，甚至直接转到对应的关系调上，比如下二例：</p>
+<p><img src="https://cdn.jsdelivr.net/gh/punkginger/cdn@master/images/2025_4/popAndJazzMusicTheory/2examples.jpg"></p>
+<p>例1-19首先将原本下属组的四级替换成六级和二级，此时后面的6-2-5-1已经构成了一个五度下行的动听的进行，再在前面附上一个引入小调色彩的小和弦，同时和后面的6级构成五度下行的三级小三和弦，听感上是小调的V-I，好像转调到了关系小调上。</p>
+<h2><span id="大调正副和弦的进行方向">大调正副和弦的进行方向</span></h2><h3><span id="正和弦">正和弦</span></h3><h4><span id="一级">一级</span></h4><p>可以向任何和弦进行</p>
+<h4><span id="四级">四级</span></h4><p>四级到七级根音构成三全音，听感不自然，很少使用</p>
+<p><img src="https://cdn.jsdelivr.net/gh/punkginger/cdn@master/images/2025_4/popAndJazzMusicTheory/4towhere.jpg"></p>
+<h4><span id="五级">五级</span></h4><p><img src="https://cdn.jsdelivr.net/gh/punkginger/cdn@master/images/2025_4/popAndJazzMusicTheory/5towhere.jpg"></p>
 <hr>
 <h1><span id="爵士和声">爵士和声</span></h1>]]></content>
       <categories>
