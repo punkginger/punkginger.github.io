@@ -236,6 +236,7 @@
 <li><a href="#%E5%92%8C%E5%BC%A6%E7%9A%84%E4%BA%A4%E6%9B%BF%E5%8A%9F%E8%83%BD">和弦的交替功能</a></li>
 </ul>
 </li>
+<li><a href="#%E5%92%8C%E5%A3%B0%E7%9A%84%E8%8A%82%E5%A5%8F%E5%92%8C%E5%8A%9B%E5%BA%A6">和声的节奏和力度</a></li>
 <li><a href="#%E5%A4%A7%E8%B0%83%E6%AD%A3%E5%89%AF%E5%92%8C%E5%BC%A6%E7%9A%84%E8%BF%9B%E8%A1%8C%E6%96%B9%E5%90%91">大调正副和弦的进行方向</a><ul>
 <li><a href="#%E6%AD%A3%E5%92%8C%E5%BC%A6">正和弦</a><ul>
 <li><a href="#%E4%B8%80%E7%BA%A7">一级</a></li>
@@ -243,6 +244,19 @@
 <li><a href="#%E4%BA%94%E7%BA%A7">五级</a></li>
 </ul>
 </li>
+<li><a href="#%E5%89%AF%E5%92%8C%E5%BC%A6">副和弦</a><ul>
+<li><a href="#%E5%90%8C%E5%8A%9F%E8%83%BD%E7%BB%84%E6%9B%BF%E4%BB%A3">同功能组替代</a></li>
+<li><a href="#%E5%90%8C%E5%8A%9F%E8%83%BD%E7%BB%84%E8%BF%9E%E7%BB%AD%E8%BF%9B%E8%A1%8C">同功能组连续进行</a></li>
+<li><a href="#%E4%BB%8E%E6%A0%B9%E9%9F%B3%E5%85%B3%E7%B3%BB%E8%80%83%E8%99%91">从根音关系考虑</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#%E7%BB%88%E6%AD%A2%E5%BC%8F">终止式</a><ul>
+<li><a href="#%E6%AD%A3%E6%A0%BC%E7%BB%88%E6%AD%A2">正格终止</a></li>
+<li><a href="#%E5%8F%98%E6%A0%BC%E7%BB%88%E6%AD%A2">变格终止</a></li>
+<li><a href="#%E5%AE%8C%E6%BB%A1%E4%B8%8E%E4%B8%8D%E5%AE%8C%E6%BB%A1%E7%BB%88%E6%AD%A2">完满与不完满终止</a></li>
+<li><a href="#%E9%98%BB%E7%A2%8D%E7%BB%88%E6%AD%A2">阻碍终止</a></li>
 </ul>
 </li>
 </ul>
@@ -384,11 +398,26 @@
 <p>这带来的启示在于，正和弦可以很好地确定调式的特点，而从关系大小调的角度出发，使用副和弦可以很便捷地引入大&#x2F;小调的色彩，甚至直接转到对应的关系调上，比如下二例：</p>
 <p><img src="https://cdn.jsdelivr.net/gh/punkginger/cdn@master/images/2025_4/popAndJazzMusicTheory/2examples.jpg"></p>
 <p>例1-19首先将原本下属组的四级替换成六级和二级，此时后面的6-2-5-1已经构成了一个五度下行的动听的进行，再在前面附上一个引入小调色彩的小和弦，同时和后面的6级构成五度下行的三级小三和弦，听感上是小调的V-I，好像转调到了关系小调上。</p>
+<h2><span id="和声的节奏和力度">和声的节奏和力度</span></h2><p>和声的节奏即和弦进行中和弦切换的节奏，显而易见的符合规律的编写方式是在舒缓引入的部分慢节奏地切换和弦，比如一个和弦持续一到两个小节，而到了激情的片段加快节奏。</p>
+<p>和声进行的力度则是一个比较重要的概念，其与<strong>根音关系</strong>高度相关，这指的就是两个和弦的根音距离的音程，其有四种可能的关系，而不同的流派可能在和声的根音关系上有偏好：</p>
+<p><img src="https://cdn.jsdelivr.net/gh/punkginger/cdn@master/images/2025_4/popAndJazzMusicTheory/rootInterval.jpg"></p>
+<p>而不同的根音关系直接影响了和声进行的力度，值得记忆的只有根音构成五度关系的和声力度最强，最有“动力性”，或者说连接起来听感最自然。</p>
 <h2><span id="大调正副和弦的进行方向">大调正副和弦的进行方向</span></h2><h3><span id="正和弦">正和弦</span></h3><h4><span id="一级">一级</span></h4><p>可以向任何和弦进行</p>
 <h4><span id="四级">四级</span></h4><p>四级到七级根音构成三全音，听感不自然，很少使用</p>
 <p><img src="https://cdn.jsdelivr.net/gh/punkginger/cdn@master/images/2025_4/popAndJazzMusicTheory/4towhere.jpg"></p>
 <h4><span id="五级">五级</span></h4><p><img src="https://cdn.jsdelivr.net/gh/punkginger/cdn@master/images/2025_4/popAndJazzMusicTheory/5towhere.jpg"></p>
-<hr>
+<h3><span id="副和弦">副和弦</span></h3><h4><span id="同功能组替代">同功能组替代</span></h4><p>可以用和正和弦同功能组的副和弦替代正和弦，不过这更多应用在下属功能组上，即用二级和六级替代四级，这是因为五级到一级的强烈倾向性难以被替代。</p>
+<h4><span id="同功能组连续进行">同功能组连续进行</span></h4><p>同功能组的和弦可以连续地连接在一起，这尤其适合静态重复的旋律。</p>
+<h4><span id="从根音关系考虑">从根音关系考虑</span></h4><p>从上文所述的和声力度角度考虑，根音关系为五度的和声最自然，有力度。因此如果将一个1-5-1进行不断按照向下五度的方向扩展，就能得到：<br>$$<br>1-4-7-3-6-2-5-1</p>
+<p>$$<br>将有些奇怪的4-7的三全音进行里的7替换成同组的5，就得到了大名鼎鼎的4536251。</p>
+<h2><span id="终止式">终止式</span></h2><h3><span id="正格终止">正格终止</span></h3><p><img src="https://cdn.jsdelivr.net/gh/punkginger/cdn@master/images/2025_4/popAndJazzMusicTheory/normalTermination.jpg"></p>
+<p>这里提到的重属和弦指的是在属和弦的基础上再构建一个属和弦，以C大调为例，常用D属七作为重属和弦。</p>
+<p>还有一种古典乐里常用的正格终止的特殊形式，<strong>终止四六和弦</strong>，其在属和弦之前加一个第二转位的主和弦，即主和弦的四六和弦。</p>
+<h3><span id="变格终止">变格终止</span></h3><p><img src="https://cdn.jsdelivr.net/gh/punkginger/cdn@master/images/2025_4/popAndJazzMusicTheory/changeTermination.jpg"></p>
+<p>变格终止最常用在正格终止后，作为补充终止，此时下属功能组的其他和弦，包括其变和弦——比如♭2和♭6，也可以用来替换四级。</p>
+<h3><span id="完满与不完满终止">完满与不完满终止</span></h3><p>当构成终止式的两个和弦都只使用原位，且主音作为主和弦的最高声部，就叫做完满终止。不满足这个条件的就叫做不完满终止。</p>
+<p>完满终止常用于乐曲结尾或者乐段结束处，而不完满终止常用于乐句内部的停顿，用于结尾处会有意犹未尽感，不过这样也能带来独特色彩。</p>
+<h3><span id="阻碍终止">阻碍终止</span></h3><hr>
 <h1><span id="爵士和声">爵士和声</span></h1>]]></content>
       <categories>
         <category>音乐</category>
@@ -420,7 +449,8 @@
 <p>小星星 一<strong>闪一</strong>闪亮晶晶</p>
 <h2><span id="下行">下行</span></h2><h1><span id="小六度">小六度</span></h1><h2><span id="上行">上行</span></h2><p>死了都要爱 <strong>死了</strong>都要爱</p>
 <h2><span id="下行">下行</span></h2><h1><span id="大六度">大六度</span></h1><h2><span id="上行">上行</span></h2><p>肖邦 夜曲no.2</p>
-<h2><span id="下行">下行</span></h2><h1><span id="小七度">小七度</span></h1><h2><span id="上行">上行</span></h2><p>可惜不是你 <strong>可惜</strong>不是你</p>
+<h2><span id="下行">下行</span></h2><p><strong>宁静</strong>的夏天 宁夏</p>
+<h1><span id="小七度">小七度</span></h1><h2><span id="上行">上行</span></h2><p>可惜不是你 <strong>可惜</strong>不是你</p>
 <h2><span id="下行">下行</span></h2><h1><span id="大七度">大七度</span></h1><h2><span id="上行">上行</span></h2><p>take on me <strong>take on</strong> me</p>
 <h2><span id="下行">下行</span></h2>]]></content>
       <categories>
