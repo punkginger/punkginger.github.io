@@ -183,7 +183,6 @@
 <ul>
 <li><a href="#%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA">基础理论</a><ul>
 <li><a href="#%E9%9F%B3%E7%A8%8B">音程</a><ul>
-<li><a href="#%E5%9F%BA%E7%A1%80">基础</a></li>
 <li><a href="#%E5%A4%8D%E9%9F%B3%E7%A8%8B">复音程</a></li>
 <li><a href="#%E9%9F%B3%E7%A8%8B%E8%BD%AC%E4%BD%8D">音程转位</a></li>
 </ul>
@@ -272,10 +271,10 @@
 <!-- tocstop -->
 
 <hr>
-<h1><span id="基础理论">基础理论</span></h1><h2><span id="音程">音程</span></h2><h3><span id="基础">基础</span></h3><p>我在这部分遇到的第一个难点是在五线谱上识别音程。我认为最快速的方法其实是建立形状与音程的关系，其中的关键是<strong>单数音程同线间，双数音程异线间</strong>，如下图：</p>
+<h1><span id="基础理论">基础理论</span></h1><h2><span id="音程">音程</span></h2><p>一个快速的记忆五线谱上音符间音程的方法是建立形状与音程的关系，其中的关键是<strong>单数音程同线间，双数音程异线间</strong>，如下图：</p>
 <p><img src="https://cdn.jsdelivr.net/gh/punkginger/cdn@master/images/2025_4/popAndJazzMusicTheory/interval1.jpg" alt="interval1"></p>
 <p>我的经验是三度及以下的形状非常明显，随后牢记重要且形状呈对称状态的五度，最后通过距离与上面提到的线间的关系推算六七八度，比较好的练习方法是打个包含各种音程关系的谱子，一边弹奏一边记忆，将音程的听感与五线谱上的状态联合起来记忆。</p>
-<p>随后是各个音程性质之间的差异，我认为记忆这一块最好用的方法是<strong>观察跨越的半音数</strong>，如下图：</p>
+<p>随后是各个音程具体性质的差异，记忆这一块最好用的方法是<strong>观察跨越的半音数</strong>，如下图：</p>
 <p><img src="https://cdn.jsdelivr.net/gh/punkginger/cdn@master/images/2025_4/popAndJazzMusicTheory/identifyThird.jpg" alt="identify"></p>
 <p><img src="https://cdn.jsdelivr.net/gh/punkginger/cdn@master/images/2025_4/popAndJazzMusicTheory/forth.jpg" alt="4th"></p>
 <p><img src="https://cdn.jsdelivr.net/gh/punkginger/cdn@master/images/2025_4/popAndJazzMusicTheory/fifth.jpg" alt="fifth"></p>
@@ -336,8 +335,8 @@
 <h3><span id="小调">小调</span></h3><p><img src="https://cdn.jsdelivr.net/gh/punkginger/cdn@master/images/2025_4/popAndJazzMusicTheory/minorScale.jpg"></p>
 <p>同样用数字表示</p>
 <p>$$<br>\begin{aligned}<br>自然小调\ 1\ 2\ ♭3\ 4\ 5\ ♭6\ b7 \\<br>和声小调\ 1\ 2\ ♭3\ 4\ 5\ ♭6\ 7\\<br>旋律小调\ 1\ 2\ ♭3\ 4\ 5\ 6\ 7\\<br>\end{aligned}<br>$$</p>
-<p>对于这三种小调主要要理解其存在的意义。比如因为自然小调第七音和主音之间相差全音，由七音导向主音的倾向性不足，同时使得自然小调缺少了5级属和弦无法构成5-1的强烈解决感的进行，因此将第七音升高半音，构成了和声小调。而和声小调里六音和七音之间是增二度关系，为了避免这种听感从而将降低的六音也升半音。</p>
-<p>可以发现无论是哪种小调，最重要的都是这个<strong>b3</strong>的音，带来了小调独特的氛围。</p>
+<p>对于这三种小调主要要理解其存在的意义。比如因为自然小调第七音和主音之间相差全音，由七音导向主音的倾向性不足，同时使得自然小调缺少了5级属和弦，无法构成5-1的强烈解决感的进行，因此将第七音升高半音，构成了和声小调。而和声小调里六音和七音之间是增二度关系，为了避免这种听感从而将降低的六音也升半音。</p>
+<p>可以发现无论是哪种小调，最重要的都是这个**♭3**的音，带来了小调独特的氛围。</p>
 <h3><span id="调式音级">调式音级</span></h3><p>在功能和声中，尤其是以自然大调出发，其七个音各有一个音级名称。</p>
 <p><img src="https://cdn.jsdelivr.net/gh/punkginger/cdn@master/images/2025_4/popAndJazzMusicTheory/scalestep.jpg"></p>
 <p>而以这些音为根音的和弦则有着同样的名字，比如以属音为根音的和弦就叫属和弦。这套命名系统的意义在于其表明了这些和弦的功能，而功能和声构建和声进行最主要的考量就是依靠和弦功能。传统和声学中往往使用罗马数字表明音级，其代表了当前音的音级，也可以表示建立在该音级上的和弦（更常用的是后者）同时，通过罗马数字的大小写和加入一些符号也可以标明和弦的性质。</p>
@@ -389,14 +388,14 @@
 <hr>
 <h1><span id="流行和声">流行和声</span></h1><h2><span id="功能和声">功能和声</span></h2><h3><span id="tsd功能组">TSD功能组</span></h3><p>功能和声是以大调与和声（旋律）小调为基础的理论，它将大小调中的七个和弦分类为三种功能：<strong>T 主 tonic</strong>、<strong>D 属 dominant</strong>和<strong>S 下属 sub-dominant</strong>，主音（一级）、属音（五级）和下属音（四级）三个音级上的和弦分别是这三种功能的核心和弦，它们也叫正和弦。</p>
 <p>可以发现，属和下属分别从上方五度和下方五度支撑着主功能。</p>
-<p>剩余的和弦，被称为副和弦，被分别划入不同的功能组，划分的依据是正和弦上下三度的和弦与其关系最密切，有最多的共同音，因此：</p>
+<p>剩余的和弦，被称为副和弦，被分别划入不同的功能组，划分的依据是正和弦上下三度的和弦与其关系最密切——这是因为它们有最多的共同音，因此：</p>
 <ol>
 <li>S 下属功能组有 二级 四级 六级</li>
 <li>D 属功能组有 三级 五级 七级</li>
 <li>T 主功能组 只有一级，最稳定，是一个调的核心</li>
 </ol>
-<p>当一组三和弦进行完整地包含S T D三个功能组时，我们就可以确定调性，这是因为此时一个调式音阶的七个音级已经全部出现了。</p>
-<p>不过，这对我们更有启示性的指导在于，属七和弦+一个主和弦即可确定调性</p>
+<p>当一组由三和弦构成的进行完整地包含S T D三个功能组时，我们就可以确定调性，这是因为此时一个调式音阶的七个音级已经全部出现了。</p>
+<p>不过，这对我们更有启示性的指导在于，属七和弦+一个主和弦即可确定调性，它们包含了六级音以外的所有音：</p>
 <p><img src="https://cdn.jsdelivr.net/gh/punkginger/cdn@master/images/2025_4/popAndJazzMusicTheory/V7toItonality.jpg"></p>
 <h3><span id="功能和声进行规律">功能和声进行规律</span></h3><p><img src="https://cdn.jsdelivr.net/gh/punkginger/cdn@master/images/2025_4/popAndJazzMusicTheory/rulesOfFH.jpg"></p>
 <h3><span id="和弦的交替功能">和弦的交替功能</span></h3><p>主要考虑在关系大小调方面的和弦的交替功能。使用同一调号的大小调叫做关系大小调，最著名的就是C大调与A自然小调，其特征在于两个调的主音构成小三度关系。</p>
