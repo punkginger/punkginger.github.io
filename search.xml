@@ -281,7 +281,16 @@
 </ul>
 </li>
 <li><a href="#%E5%B8%B8%E8%A7%81%E7%9A%84%E5%92%8C%E5%A3%B0%E6%A8%A1%E5%BC%8F">常见的和声模式</a><ul>
-<li><a href="#%E4%BA%94%E5%BA%A6%E8%BF%9B%E8%A1%8C%E4%B8%8E%E6%A8%A1%E5%BC%8F">五度进行与模式</a></li>
+<li><a href="#%E4%BA%94%E5%BA%A6%E8%BF%9B%E8%A1%8C%E4%B8%8E%E6%A8%A1%E5%BC%8F">五度进行与模式</a><ul>
+<li><a href="#%E4%B8%8B%E4%BA%94%E5%BA%A6%E6%A8%A1%E5%BC%8F">下五度模式</a></li>
+<li><a href="#%E4%B8%8A%E4%BA%94%E5%BA%A6%E6%A8%A1%E5%BC%8F">上五度模式</a></li>
+</ul>
+</li>
+<li><a href="#%E4%B8%89%E5%BA%A6%E8%BF%9B%E8%A1%8C%E4%B8%8E%E6%A8%A1%E5%BC%8F">三度进行与模式</a><ul>
+<li><a href="#%E4%B8%8B%E4%B8%89%E5%BA%A6%E6%A8%A1%E5%BC%8F">下三度模式</a></li>
+</ul>
+</li>
+<li><a href="#%E4%BA%8C%E5%BA%A6%E8%BF%9B%E8%A1%8C%E4%B8%8E%E6%A8%A1%E5%BC%8F">二度进行与模式</a></li>
 </ul>
 </li>
 </ul>
@@ -514,7 +523,18 @@
 <h3><span id="小调的五度循环链">小调的五度循环链</span></h3><p>所谓的五度循环链，就是将小调和弦按照根音五度的关系排列起来。</p>
 <p><img src="https://cdn.jsdelivr.net/gh/punkginger/cdn@master/images/2025_4/popAndJazzMusicTheory/chainOf5th.jpg"></p>
 <p>其特别之处在于，这个八个和弦的进行可以理解为四个大调的6251接上四个小调的6251，很适合用来实现模进。</p>
-<h2><span id="常见的和声模式">常见的和声模式</span></h2><h3><span id="五度进行与模式">五度进行与模式</span></h3><hr>
+<h2><span id="常见的和声模式">常见的和声模式</span></h2><p>当我们这里谈论和声模式时，我们往往指的是由多个和弦，比如4个以上构成的一种规律化的模式，这就是说，比如下文里提到的“不常用的”某些模式，实际上很可能在孤立的两个和弦连接中很常见。</p>
+<h3><span id="五度进行与模式">五度进行与模式</span></h3><h4><span id="下五度模式">下五度模式</span></h4><p>根音构成五度关系的和声进行有着最强的力度，爵士乐的灵魂2-5-1就是这种模式。要熟练运用这种模式，最重要的是记住如果以数字标记级数，一个完整的五度循环是<strong>1-4-7-3-6-2-5-1</strong>。书中对大小调常用的下五度进行的总结如下：</p>
+<p><img src="https://cdn.jsdelivr.net/gh/punkginger/cdn@master/images/2025_4/popAndJazzMusicTheory/down5.jpg"></p>
+<h4><span id="上五度模式">上五度模式</span></h4><p><img src="https://cdn.jsdelivr.net/gh/punkginger/cdn@master/images/2025_4/popAndJazzMusicTheory/up5.jpg"></p>
+<p>不难发现，上述的进行其实构成是一样的，只是用不同的调式去解释。上五度进行的模式远不如下五度常见，因此往往能带来意外的听感，值得注意的是，上五度进行模式往往只是用三和弦。</p>
+<p>如果进一步分析，可以发现许多使用上五度进行的例曲都是在开头，或者某一段的开头使用这样的进行，这是因为其第一个和弦带来大调的感觉，但最后进行到六级又能带来小调感，所以可以用来实现转调到关系小调。</p>
+<h3><span id="三度进行与模式">三度进行与模式</span></h3><p>三度进行最大的特点就是，前后两个和弦之间有大量的共同音，因此很显然的，三度进行的模式都很适合起伏不大，情绪平缓的旋律。</p>
+<h4><span id="下三度模式">下三度模式</span></h4><p>下三度模式远比上三度模式常用。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/punkginger/cdn@master/images/2025_4/popAndJazzMusicTheory/down3.jpg"></p>
+<h3><span id="二度进行与模式">二度进行与模式</span></h3><p>二度进行的力度与常见度都远不如上述两种进行。尤其在古典音乐里，由于对平行五度的禁令，二度进行几乎更少见了，但如今的和声已经几乎没有这样的禁令了：</p>
+<p><img src="https://cdn.jsdelivr.net/gh/punkginger/cdn@master/images/2025_4/popAndJazzMusicTheory/2degreeProgression.jpg"></p>
+<hr>
 <h1><span id="爵士和声">爵士和声</span></h1>]]></content>
       <categories>
         <category>音乐</category>
